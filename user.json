@@ -1,1 +1,12 @@
-[{"username": "izan", "password": "izanoffc", "role": "owner"}]
+[
+  {
+    "username": "izan",
+    "password": "izanoffc",
+    "role": "owner"
+  },
+  {
+    "username": "xynoz",
+    "password": "xynozganteng",
+    "role": "owner"
+  }
+]
