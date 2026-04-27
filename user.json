@@ -18,5 +18,10 @@
     "username": "aldi",
     "password": "1",
     "role": "reseller"
+  },
+  {
+    "username": "zan",
+    "password": "1",
+    "role": "reseller"
   }
 ]
