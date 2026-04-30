@@ -3,5 +3,10 @@
     "username": "izan",
     "password": "izanoffc",
     "role": "owner"
+  },
+  {
+    "username": "fall",
+    "password": "1",
+    "role": "owner"
   }
 ]
